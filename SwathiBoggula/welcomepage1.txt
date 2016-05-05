@@ -1,0 +1,14 @@
+in welcome page:
+we hav to enter a name of the  customer to enter in to the shoping mall so it ask the name 
+after entering the name it submited request to the generate card for that we will provide a hyper link. 
+in this project we use 3 tables that is
+customer table
+item table
+cart details
+i done this project in JSP
+it will generate the jar files
+we have to generate a web page to display the customer details in web page
+and generate a html page for designing
+html page:
+it will generate basic details of the customer means it will genetate the static page
+

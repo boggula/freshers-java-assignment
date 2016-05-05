@@ -1,0 +1,6 @@
+2nd page generate card
+it provide customer name what we entered in the first page (welcome page)
+it automatically provide the cart number(ramdomly generate)
+and it display the date at what time the customer have entered into the shopping mall
+we can check in the database table the details are saved or not by using the query
+select* from customer_details;

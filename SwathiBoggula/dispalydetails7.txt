@@ -1,0 +1,9 @@
+in the 6. display details page
+in this it will generate the
+customer name
+card no
+selected items in numbers
+and price of the each item
+and total amt or bill
+and exit time
+

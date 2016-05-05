@@ -1,0 +1,7 @@
+3.select itempage
+in this we have to select the itemsby using the query(select itemname from item_table ) what ever we want it will show the itemlist it contain multiple items what we entered in the database.
+while selecting the items it will execute the query by suing exucutequery statement.
+it will check(while(rs.next))
+it will proceed the item number catd number and name to the next level.
+what ever we are selected item we have to click on add to acrd button(it will add the items).
+and proceed to next page.

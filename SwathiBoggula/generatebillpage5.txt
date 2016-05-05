@@ -1,0 +1,6 @@
+5.generate bill
+it will generate the bill by cliking the generate button then we can chesk the card status 
+by using query(select price from cartdetails_table)
+it will shows the each price item.
+by using float totalamt=0.0f (it will generate the bill in decimal point so we have to use float)
+after it will generate total bill and displays

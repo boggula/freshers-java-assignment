@@ -1,0 +1,10 @@
+4.purchase page
+in this it will displays the customer name,cart number and time 
+and the no of items he purchased.
+like
+name:sai
+card no:123
+selected items:
+if the customer want to add more items he can press the button add more items to the cart he we will back to the page of select items page.
+if not he can press the getbill button.then the customer get the total bill with each item price and item number.
+
